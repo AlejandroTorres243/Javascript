@@ -61,4 +61,4 @@ for(cont = 0; cont < vocales.length; cont++){
 
 vocales.forEach(function(vocal){
     caja.innerHTML += `<h4>${vocal}</h4>`
-})
+});
